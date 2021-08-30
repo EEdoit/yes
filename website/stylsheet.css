@@ -1,0 +1,147 @@
+body, html {
+  height: 100%;
+  margin: 0px;
+  margin-bottom: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+   background: antiquewhite;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+h2 {
+  color: black;
+  text-align: center;
+
+}
+h3 {
+  color: black;
+  text-align: center;
+}
+h4 {
+  color: black;
+  text-align: center;
+}
+h5 {
+  color: black;
+  text-align: center;
+}
+
+.right {
+  float: right;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+.navbar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+  text-decoration: underline;
+
+}
+.navbar a.active {
+  color: white;
+  background-color: #347deb;
+}
+.navbar a.active:hover {
+  color: white;
+  background-color: #0045bd;
+  text-decoration: underline;
+}
+.imag {
+  font-size: 15px;
+}
+
+.logos1 {
+  text-align: ;
+  display: ;
+  font-size: 10px;
+  margin-left: 3px;
+}
+.logos2 {
+  text-align: ;
+  display: ;
+  font-size: 10px;
+  margin-left: 2px;
+}
+.logos3 {
+  text-align: ;
+  display: ;
+  font-size: 10px;
+  margin-left: 2px;
+}
+.main {
+  text-align: center;
+  display: flex;
+}
+.item1 {
+  border-style: solid;
+  margin-left: 10px;
+  margin-right: ;
+  border-color: black;
+  border-width: 1px;
+  background-color: white;
+  width: 255px;
+  text-align: center;
+}
+.custom-select-color {
+  text-align: center;
+  margin-left: 4px;
+  width: auto;
+}
+.item2 {
+  border-style: solid;
+  margin-left: 10px;
+  margin-right: ;
+  border-color: black;
+  border-width: 1px;
+  background-color: white;
+  width: 255px;
+  text-align: center;
+}
+.all-items {
+  display: flex;
+}
+.align {
+  margin-top: 27px;
+}
+.number-of-items input{
+  width: 160px;
+  margin-left: 4px;
+  text-align: left;
+}
+.top {
+
+}
+.custom-order {
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  width: 522px;
+  margin-left: 11px;
+  margin-top: 11px;
+  height: 50px;
+}
+h1 {
+  background-color: #5000ca;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+svg {
+  margin-bottom: 0px;
+  display: block;
+}
